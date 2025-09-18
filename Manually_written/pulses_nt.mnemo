@@ -1,0 +1,2993 @@
+0	 15	Set track name to 
+0	  2	OP 90	% base phase shift
+0	  2	BP 180	% pulse modulation phase shift
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  3	BA 0% 	% pulse modulation depth
+0	  1	AF 0.10Hz 	% amplitude modulation frequency
+0	  1	AA 99% 	% amplitude modulation depth
+0	  2	AF 0.10Hz 	% amplitude modulation frequency
+0	  2	AA 99% 	% amplitude modulation depth
+0	  1	AM 1	% amplitude modulation mode
+0	  2	AM 1	% amplitude modulation mode
+0	  1	OF 550Hz 	% base frequency
+0	  2	OF 550Hz 	% base frequency
+0	  3	AA 0% 	% amplitude modulation depth
+0	  1	OS 10S	% slewrate
+0	  2	OS 10S	% slewrate
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.3870S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0  %3.25
+0	  1	BF 3.25Hz 	% pulse modulation frequency
+0	  2	BF 3.25Hz 	% pulse modulation frequency
+0	  1	OS 2S		% return slewrate to a "normal" value
+0	  2	OS 2S		%
+0.1	  1	OF 570Hz
+0	  2	OF 570Hz
+0	  1	OA 80% 	% main amplitude
+0	  2	OA 80% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0	  1	BF 5.00Hz 	% pulse modulation frequency
+0	  2	BF 5.00Hz 	% pulse modulation frequency
+0.1	  1	OF 580Hz
+0	  2	OF 580Hz
+0	  1	OA 84% 	% main amplitude
+0	  2	OA 84% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  1	BF 6.66Hz 	% pulse modulation frequency
+0	  2	BF 6.66Hz 	% pulse modulation frequency
+0.1	  1	OF 590Hz
+0	  2	OF 590Hz
+0	  1	OA 88% 	% main amplitude
+0	  2	OA 88% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 7.51
+0	  1	BH 16.6mS
+0	  2	BH 16.6mS
+0	  1	BI 33.3mS
+0	  2	BI 33.3mS
+0	  1	BF 10Hz 	% pulse modulation frequency
+0	  2	BF 10Hz 	% pulse modulation frequency
+0.1	  1	OF 600Hz
+0	  2	OF 600Hz
+0	  1	OA 92% 	% main amplitude
+0	  2	OA 92% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 8.88
+0	  1	BH 39mS
+0	  2	BH 39mS
+0	  1	BI 78mS
+0	  2	BI 78mS
+0	  1	BF 30Hz 	% pulse modulation frequency
+0	  2	BF 30Hz 	% pulse modulation frequency
+0.1	  1	OF 610Hz
+0	  2	OF 610Hz
+0	  1	OA 96% 	% main amplitude
+0	  2	OA 96% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 10.34
+0.4	  1	BH 43mS
+0	  2	BH 43mS
+0	  1	BI 86mS
+0	  2	BI 86mS
+0	  1	BF 50Hz 	% pulse modulation frequency
+0	  2	BF 50Hz 	% pulse modulation frequency
+0.1	  1	OF 650Hz
+0	  2	OF 650Hz
+0	  1	OA 100% 	% main amplitude
+0	  2	OA 100% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0.1	  1	OF 550Hz
+0	  2	OF 550Hz
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% Now serie 2: more sport and less warm up
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.3870S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0  %3.25
+0	  1	BF 3.25Hz 	% pulse modulation frequency
+0	  2	BF 3.25Hz 	% pulse modulation frequency
+0	  1	OS 2S		% return slewrate to a "normal" value
+0	  2	OS 2S		%
+0.1	  1	OF 570Hz
+0	  2	OF 570Hz
+0	  1	OA 80% 	% main amplitude
+0	  2	OA 80% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0	  1	BF 5.00Hz 	% pulse modulation frequency
+0	  2	BF 5.00Hz 	% pulse modulation frequency
+0.1	  1	OF 580Hz
+0	  2	OF 580Hz
+0	  1	OA 84% 	% main amplitude
+0	  2	OA 84% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  1	BF 6.66Hz 	% pulse modulation frequency
+0	  2	BF 6.66Hz 	% pulse modulation frequency
+0.1	  1	OF 590Hz
+0	  2	OF 590Hz
+0	  1	OA 88% 	% main amplitude
+0	  2	OA 88% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 7.51
+0	  1	BH 16.6mS
+0	  2	BH 16.6mS
+0	  1	BI 33.3mS
+0	  2	BI 33.3mS
+0	  1	BF 10Hz 	% pulse modulation frequency
+0	  2	BF 10Hz 	% pulse modulation frequency
+0.1	  1	OF 600Hz
+0	  2	OF 600Hz
+0	  1	OA 92% 	% main amplitude
+0	  2	OA 92% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 8.88
+0	  1	BH 39mS
+0	  2	BH 39mS
+0	  1	BI 78mS
+0	  2	BI 78mS
+0	  1	BF 30Hz 	% pulse modulation frequency
+0	  2	BF 30Hz 	% pulse modulation frequency
+0.1	  1	OF 610Hz
+0	  2	OF 610Hz
+0	  1	OA 96% 	% main amplitude
+0	  2	OA 96% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 10.34
+0.4	  1	BH 43mS
+0	  2	BH 43mS
+0	  1	BI 86mS
+0	  2	BI 86mS
+0	  1	BF 50Hz 	% pulse modulation frequency
+0	  2	BF 50Hz 	% pulse modulation frequency
+0.1	  1	OF 650Hz
+0	  2	OF 650Hz
+0	  1	OA 100% 	% main amplitude
+0	  2	OA 100% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0.1	  1	OF 550Hz
+0	  2	OF 550Hz
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% end, cool down
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.3870S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0  %3.25
+0	  1	BF 3.25Hz 	% pulse modulation frequency
+0	  2	BF 3.25Hz 	% pulse modulation frequency
+0	  1	OS 2S		% return slewrate to a "normal" value
+0	  2	OS 2S		%
+0.1	  1	OF 570Hz
+0	  2	OF 570Hz
+0	  1	OA 80% 	% main amplitude
+0	  2	OA 80% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0	  1	BF 5.00Hz 	% pulse modulation frequency
+0	  2	BF 5.00Hz 	% pulse modulation frequency
+0.1	  1	OF 580Hz
+0	  2	OF 580Hz
+0	  1	OA 84% 	% main amplitude
+0	  2	OA 84% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  1	BF 6.66Hz 	% pulse modulation frequency
+0	  2	BF 6.66Hz 	% pulse modulation frequency
+0.1	  1	OF 590Hz
+0	  2	OF 590Hz
+0	  1	OA 88% 	% main amplitude
+0	  2	OA 88% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 7.51
+0	  1	BH 16.6mS
+0	  2	BH 16.6mS
+0	  1	BI 33.3mS
+0	  2	BI 33.3mS
+0	  1	BF 10Hz 	% pulse modulation frequency
+0	  2	BF 10Hz 	% pulse modulation frequency
+0.1	  1	OF 600Hz
+0	  2	OF 600Hz
+0	  1	OA 92% 	% main amplitude
+0	  2	OA 92% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 8.88
+0	  1	BH 39mS
+0	  2	BH 39mS
+0	  1	BI 78mS
+0	  2	BI 78mS
+0	  1	BF 30Hz 	% pulse modulation frequency
+0	  2	BF 30Hz 	% pulse modulation frequency
+0.1	  1	OF 610Hz
+0	  2	OF 610Hz
+0	  1	OA 96% 	% main amplitude
+0	  2	OA 96% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 10.34
+0.4	  1	BH 43mS
+0	  2	BH 43mS
+0	  1	BI 86mS
+0	  2	BI 86mS
+0	  1	BF 50Hz 	% pulse modulation frequency
+0	  2	BF 50Hz 	% pulse modulation frequency
+0.1	  1	OF 650Hz
+0	  2	OF 650Hz
+0	  1	OA 100% 	% main amplitude
+0	  2	OA 100% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 4.66
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 3.250Hz 	% pulse modulation frequency
+0	  2	BF 3.250Hz 	% pulse modulation frequency
+0.1	  1	OF 550Hz
+0	  2	OF 550Hz
+0	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+0	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 130.812Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0.4	  3	OS 1.38701S	% slewrate
+0	  3	OA 87% 	% main amplitude
+0	  3	OF 164.813Hz 	% base frequency
+1.7	  1	AO 0	% amplitude modulation phase (re)set
+0	  2	AO 0	% amplitude modulation phase (re)set
+0	  3	OS 0.17201S	% slewrate
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% 6.04
+0	  3	OA 0% 	% main amplitude
+0	  3	NN 0	% end, cool down
+
+
+
+0.4	  1	BH 0.001
+0	  2	BH 0.001
+0	  1	BI 0.001
+0	  2	BI 0.001
+0	  1	BF 2Hz 	% pulse modulation frequency
+0	  2	BF 2Hz 	% pulse modulation frequency
+0	  1	OA 60% 	% main amplitude
+0	  2	OA 60% 	% main amplitude
+90	  0	NQ 0	% abort

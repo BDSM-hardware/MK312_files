@@ -1,0 +1,359 @@
+0	 15	Set track name to 
+0	  2	OP 90	% base phase shift
+0	  2	BP 180	% pulse modulation phase shift
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	BF 180Hz 	% pulse modulation frequency
+0	  2	BF 180Hz 	% pulse modulation frequency
+0.01  1	AF 3Hz 	% amplitude modulation frequency
+0	  1	AA 0% 	% amplitude modulation depth
+0	  2	AF 4.5Hz 	% amplitude modulation frequency
+0     2	AA 0% 	% amplitude modulation depth
+0	  1	AM 0	% amplitude modulation mode
+0	  2	AM 0	% amplitude modulation mode
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 574Hz 	% base frequency
+0	  2	OF 574Hz 	% base frequency
+0	  1 BH 120mS
+0	  2 BH 120mS
+0	  1 BI 160mS
+0	  2 BI 160mS
+0	  1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 30S	% slewrate
+0	  2	OS 30S	% slewrate
+0.1	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+22	  1	OS 0.2S	% slewrate
+0	  2	OS 0.2S	% slewrate
+0	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 574Hz 	% base frequency
+0	  2	OF 574Hz 	% base frequency
+0	  1 BH 120mS
+0	  2 BH 120mS
+0	  1 BI 160mS
+0	  2 BI 160mS
+0	  1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 30S	% slewrate
+0	  2	OS 30S	% slewrate
+0.1	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+22	  1	OS 0.2S	% slewrate
+0	  2	OS 0.2S	% slewrate
+0	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 574Hz 	% base frequency
+0	  2	OF 574Hz 	% base frequency
+0	  1 BH 120mS
+0	  2 BH 120mS
+0	  1 BI 160mS
+0	  2 BI 160mS
+0	  1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 30S	% slewrate
+0	  2	OS 30S	% slewrate
+0.1	  1	OA 70% 	% main amplitude
+0	  2	OA 70% 	% main amplitude
+22	  1	OS 0.2S	% slewrate
+0	  2	OS 0.2S	% slewrate
+0	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 594Hz 	% base frequency
+0	  2	OF 564Hz 	% base frequency
+0	  1 BH 60mS
+0	  2 BH 60mS
+0	  1 BI 80mS
+0	  2 BI 80mS
+0     1 AA 0 % amplitude modulation depth
+0	  2 AA 0 % amplitude modulation depth
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  1	OS 0.02S	% slewrate
+0	  2	OS 0.02S	% slewrate
+0.1	  1	OA 99% 	% main amplitude
+0	  2	OA 99% 	% main amplitude
+0.8	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude
+
+4	  1	OF 554Hz 	% base frequency
+0	  2	OF 554Hz 	% base frequency
+0	  1 AA 99 % amplitude modulation depth
+0	  2 AA 99 % amplitude modulation depth
+0	  1	BA 0% 	% pulse modulation depth
+0	  2	BA 0% 	% pulse modulation depth
+0	  1	OS 0.8S	% slewrate
+0	  2	OS 0.8S	% slewrate
+0.1	  1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+15	  1	OA 0 	% main amplitude
+0	  2	OA 0 	% main amplitude	  
+
+5     1 NQ 0	% quit

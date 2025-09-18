@@ -1,0 +1,10 @@
+0	 15	Set track name to 
+0	  2	OP 90	% base phase shift
+0	  all	AA 10% 	% amplitude modulation depth
+0	  all	OS 0.1S	% slewrate
+0.1	  1	AF 0.06Hz 	% amplitude modulation frequency
+0	  2	AF 0.05Hz 	% amplitude modulation frequency
+0	  all	OF 640Hz 	% base frequency
+0     all	OA 100% 	% main amplitude
+
+250	  1		NQ	0  % Abort
