@@ -1,0 +1,7 @@
+This project contains manually written files and (in the future) software to generate input of many electro stimulator.
+
+It relays on the MultiSignalGene software from ElecGeek, here on GitHub. This software runs on Windows, Mac and Linux for files generation and on Max or Windows for on the fly audio output.
+
+The initial manually written files came from the KM312-NT project, as, unfortunately, it is not possible to fork on GitHub only one folder. The one in the KM312-NT are considered as outdated.
+
+
