@@ -1,0 +1,1772 @@
+0	 15	Set track name to 
+0	  2	OP 90	% base phase shift
+0	  2	BP 180	% pulse modulation phase shift
+0	  1	BA 99% 	% pulse modulation depth
+0	  2	BA 99% 	% pulse modulation depth
+0	  3	BA 0% 	% pulse modulation depth
+0.01  1	AA 0% 	% amplitude modulation depth
+0	  2	AA 0% 	% amplitude modulation depth
+0	  2	AP 180	% amplitude modulation phase shift
+0	  3	AA 0% 	% amplitude modulation depth
+0	  1	OS 8S	% slewrate
+0	  2	OS 8S	% slewrate
+0.01  3 OS 5S	% slewrate
+0     1	BH 44mS
+0	  2	BH 44mS
+0	  1	BI 88mS
+0	  2	BI 88mS
+0	  1	BF 75Hz 	% pulse modulation frequency
+0	  2	BF 75Hz 	% pulse modulation frequency
+0.01  3	OA 87% 	% main amplitude
+
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  3	OF 130Hz 	% base frequency
+0     1	OA 50% 	% main amplitude
+0	  2	OA 50% 	% main amplitude
+
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 50%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 80%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 50%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 80%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 1
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 60%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 90%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 60%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 90%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 2
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 1
+
+2	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 2
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 3
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 4
+
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 5
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 6
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 7
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 8
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 9
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 10
+
+2	  1	OF 650Hz 	% base frequency long
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 11
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 12
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 13
+
+2	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 14
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 15
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 16
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 17
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 18
+
+2	  1	OF 650Hz 	% base frequency long
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 19
+
+2	  1	OF 655Hz 	% base frequency long
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 20
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 21
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 8
+0	  2	OS 8
+0	  1	OA 50%
+0	  3	OF 175
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+4	  3	OF 131
+0	  1	OS 1
+0	  1	OA 0
+0	  2	OS 1
+0	  2	OA 0
+0	  0	NN 22
+
+% full wave 1
+8	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 23
+
+% full wave 2
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 640Hz 	% base frequency
+0	  1	OF 640Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 24
+
+
+% full wave 3
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 25
+
+% full wave 4
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 640Hz 	% base frequency
+0	  1	OF 640Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 26
+
+% full wave 5
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 27
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 8
+0	  2	OS 8
+0	  1	OA 50%
+0	  3	OF 175
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+4	  3	OF 131
+0	  1	OS 1
+0	  1	OA 0
+0	  2	OS 1
+0	  2	OA 0
+0	  0	NN 28
+
+
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 29
+
+2	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 30
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 31
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 32
+
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 33
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 34
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 35
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 36
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 37
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 38
+
+2	  1	OF 650Hz 	% base frequency long
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 39
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 40
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 41
+
+2	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 42
+
+2	  1	OF 650Hz 	% base frequency
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 43
+
+2	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 44
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 45
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 46
+
+2	  1	OF 650Hz 	% base frequency long
+0	  2	OF 650Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 47
+
+2	  1	OF 655Hz 	% base frequency long
+0	  2	OF 655Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 90%
+0	  2	OS 1
+0	  2	OA 70%
+4	  2	OS 19
+0	  2	OA 100%
+8	  1	OA 100%
+2.2	  1	OA 0
+0	  1	OS 1
+0	  3	OF 131
+4	  2	OS 1
+0	  2	OA 0
+0	  0	NN 48
+
+2	  1	OF 640Hz 	% base frequency
+0	  2	OF 640Hz 	% base frequency
+0	  1	OS 1
+0	  1	OA 70%
+0	  3	OF 175
+4	  1	OS 19
+0	  1	OA 100%
+0	  3	OF 267
+6	  1	OA 0
+0	  1	OS 1
+0	  2	OS 1
+0	  2	OA 70%
+0	  3	OF 131
+4	  2	OS 19
+0	  2	OA 100%
+6	  2	OA 0
+0	  2	OS 1
+0	  0	NN 49
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 8
+0	  2	OS 8
+0	  1	OA 50%
+0	  3	OF 175
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+4	  3	OF 131
+0	  1	OS 1
+0	  1	OA 0
+0	  2	OS 1
+0	  2	OA 0
+0	  0	NN 50
+
+% full wave 1
+8	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 51
+
+% full wave 2
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 640Hz 	% base frequency
+0	  1	OF 640Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 52
+
+
+% full wave 3
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 53
+
+% full wave 4
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 640Hz 	% base frequency
+0	  1	OF 640Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 645Hz 	% base frequency
+0	  2	OF 645Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 54
+
+% full wave 5
+25	  1	OA 0
+0	  2	OA 0
+1	  2	OF 650Hz 	% base frequency
+0	  1	OF 650Hz 	% base frequency
+0	  2	OA 85%
+0	  1	OA 65%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 80%
+0	  1	OA 70%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 75%
+0	  1 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 70%
+0	  1 OA 80%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 65%
+0	  1 OA 85%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  2	OA 60%
+0	  1 OA 90%
+0	  3	OF 247Hz
+
+25	  1	OA 0
+0	  2	OA 0
+1	  1	OF 655Hz 	% base frequency
+0	  2	OF 655Hz 	% base frequency
+0	  1	OA 85%
+0	  2	OA 65%
+0	  3	OF 220Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 80%
+0	  2	OA 70%
+0	  3	OF 196Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 75%
+0	  2 OA 75%
+0	  3	OF 175Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 70%
+0	  2 OA 80%
+0	  3	OF 165Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 65%
+0	  2 OA 85%
+0	  3	OF 145Hz
+12	  1	OA 0
+0	  2	OA 0
+1	  1	OA 60%
+0	  2 OA 90%
+0	  3	OF 131Hz
+0     0 NN 55
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 8
+0	  2	OS 8
+0	  1	OA 50%
+0	  3	OF 175
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+5	  2	OA 40%
+0	  1	OA 60%
+5	  1	OA 40%
+0	  2	OA 60%
+4	  3	OF 131
+0	  1	OS 1
+0	  1	OA 0
+0	  2	OS 1
+0	  2	OA 0
+0	  0	NN 56
+
+
+2	  1	OF 645Hz 	% base frequency long
+0	  2	OF 645Hz 	% base frequency
+0	  1	OS 8
+0	  2	OS 8
+0	  1	OA 50%
+0	  3	OF 175
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+5	  2	OA 40%
+0	  1	OA 50%
+5	  1	OA 40%
+0	  2	OA 50%
+4	  3	OF 131
+0	  1	OS 1
+0	  1	OA 0
+0	  2	OS 1
+0	  2	OA 0
+0	  0	NN 56
+
+
+
+5	  0	NQ 0 % stop
